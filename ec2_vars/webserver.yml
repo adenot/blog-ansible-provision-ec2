@@ -1,0 +1,10 @@
+ec2_keypair: "REDACTED"
+ec2_security_group: "REDACTED"
+ec2_instance_type: "m3.medium"
+ec2_image: "ami-9eaa1cf6"
+ec2_subnet_ids: ['subnet-REDACTED','subnet-REDACTED','subnet-REDACTED']
+ec2_region: "us-east-1"
+ec2_tag_Name: "Webserver"
+ec2_tag_Type: "webserver"
+ec2_tag_Environment: "production"
+ec2_volume_size: 16
